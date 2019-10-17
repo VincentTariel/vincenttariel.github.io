@@ -12,7 +12,7 @@ author_profile: true
 * Pattern recognition
 * Machine learning 
 * Deep learning
-* Remote sensing
+
 
 ---
 ## Publications

@@ -6,17 +6,17 @@ author_profile: true
 ---
 Teaching
 ======
-* [Since Sept 2019]
-  * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
-  * C++ & Python & Web (HTML, CSS, PHP, Javascript, ...)
-* [2014-2017] 
-  * MMI department, [IUT de Mulhouse](http://www.iutmulhouse.uha.fr/), [Haute-Alsace University](https://www.uha.fr/), France
-  * Web (HTML, CSS, PHP, Javascript, Angular, ...) & Mathematics & XML & Algorithmic
-* [2017-2019] 
-  * [Faculty of science](http://www.fsr.ac.ma/), [Mohammed V University (Morocco)](www.um5.ac.ma/)
-  * Operating Systems & Information System & Security Network
+Ce site s'adresse en premier lieu à mes étudiants en CGSI 2 de l'ISEN de Nantes promotion 2019/2020.
+Déclinés suivant 3 branches, analyse, probabilité et algèbe, il se veut un outil de travail quotidien en proposant des ressources mathématiques rattaché au programme.
+Il sera enrichi tout au long de l'année en suivant la progression faite en cours.
+* [Depuis Sept 2018]  [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
+  * L1-L2 (MPSI-PSI)
+    * Analyse
+        * Série numérique : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/serie_numerique_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/serie_numerique_exo.pdf)
+    * Algèbre
+        * Espace vectoriel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_exo.pdf) 
+    * Probabilité
+        * Dénombrement : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_cours.pdf), [exercices](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_exo.pdf) 
+        * Proabilité finie : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/probabilite_finie_cours.pdf), [exercices](https://github.com/VincentTariel/cours/blob/master/probabilite/probabilite_finie_exo.pdf)
+         
 
-Other activities 
-======
-* Presentation of MMI department in JC (Journée des carrières) and JPO (Journée des portes ouvertes)
-* Member of the interview jury for admission to differents formations
