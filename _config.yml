@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayoub Karine"
+title                    : "Vincent Tariel"
 title_separator          : "-"
-name                     : &name "Ayoub Karine"
+name                     : &name "Vincent Tariel"
 description              : &description "personal description"
 url                      : https://ayoubkarine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ayoubkarine/ayoubkarine.github.io"
+repository               : "vincenttariel/vincenttariel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayoub KARINE"
-  avatar           : "ayoub6.jpg"
+  name             : "Vincent Tariel"
+  avatar           : "vincent.jpg"
   bio              : "Associate Professor at Yncréa Ouest/ISEN Nantes, France"
   location         : "Nantes"
   employer         : 
-  googlescholar    : "https://scholar.google.fr/citations?user=acAw9KAAAAAJ&hl=fr"
-  email            : ayoub.karine@isen-ouest.yncrea.fr
-  researchgate     :  "https://www.researchgate.net/profile/Ayoub_Karine?ev=hdr_xprf&_sg=eJkSR2ljqVo6Ub414o2YwqTDXE2e1tV5SPoWZQv35B3oJoSgYfbNmLlZt57lBUJCiaEapS_Iz82ix5Z6XveLFdaC"
+  googlescholar    : "https://scholar.google.fr/citations?user=8EaYS24AAAAJ&hl=fr"
+  email            : vincent.tariel@isen-ouest.yncrea.fr
+  researchgate     :  "https://www.researchgate.net/profile/Vincent_Tariel"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,27 +95,27 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ayoubkarine"
+  github           : "vincenttariel"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ayoub-karine-a01ba384"
-  orcid            : "https://orcid.org/0000-0002-9304-4613"
+  linkedin         :
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "ayoub_karine"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  publons          : "https://publons.com/author/1627569/ayoub-karine#profile" 
-  dblp             : https://dblp.uni-trier.de/search?q=ayoub+karine
+  publons          :
+  dblp             : https://dblp.uni-trier.de/search?q=vincent+tariel
 
 
 # Reading Files
