@@ -17,4 +17,4 @@ YNCRA OUEST/ISEN Nantes
 
 Email
 ======
-ayoub.karine@isen-ouest.yncrea.fr  
+vincent.tariel@isen-ouest.yncrea.fr  
