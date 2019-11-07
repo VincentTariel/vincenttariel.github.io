@@ -13,6 +13,8 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
   * L1-L2 (MPSI-PSI)
     * Analyse
         * Série numérique : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/serie_numerique_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/serie_numerique_exo.pdf)
+        * Série entière : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/serie_entiere_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/serie_entiere_exo.pdf)
+
     * Algèbre
         * Espace vectoriel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_exo.pdf) 
     * Probabilité
