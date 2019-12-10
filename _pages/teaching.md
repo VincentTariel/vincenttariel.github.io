@@ -23,4 +23,5 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
         * Probabilité finie : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/probabilite_finie_cours.pdf), [exercices](https://github.com/VincentTariel/cours/blob/master/probabilite/probabilite_finie_exo.pdf) et 
          [TP Python](https://github.com/VincentTariel/cours/blob/master/probabilite/simulation_variable_aleatoire_avtivite_python.pdf)
         * Probabilité discrère : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/probabilite_discrete_cours.pdf).
+        et un tp sur l'algorithme de [PageRank](https://github.com/VincentTariel/cours/blob/master/probabilite/TP_PageRank)
 
