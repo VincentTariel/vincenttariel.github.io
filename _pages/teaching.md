@@ -16,6 +16,8 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
       * Suite et série de fonctions : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/suite_serie_fonction_cours.pdf)
       * Intégrale impropre : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/integration_cours.pdf)
       * Intégrale à paramètre : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/integrale_parametre_cours.pdf)
+      * Equation différentielle : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/equation_differentielle_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/equation_differentielle_exo.pdf)
+      
   * Algèbre
        * Espace vectoriel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_exo.pdf)
        * Application linéaire : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/application_lineaire_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/application_lineaire_exo.pdf) 
