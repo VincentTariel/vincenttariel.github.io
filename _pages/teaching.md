@@ -22,6 +22,7 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
        * Espace vectoriel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_exo.pdf)
        * Application linéaire : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/application_lineaire_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/application_lineaire_exo.pdf) 
        * Réduction : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/reduction_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/reduction_exo.pdf) 
+       * Espace préhilbertien réel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_prehilbertien_cours.pdf) 
 
   * Probabilité
        * Dénombrement : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_cours.pdf), [exercices](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_exo.pdf) 
