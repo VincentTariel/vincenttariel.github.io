@@ -16,6 +16,6 @@ I received the master’s degree in material science in 2006 at École nationale
 
 News
 ======
-* [Since September 2018] New position : Associated Professor at [Yncréa Ouest/ISEN Nantes, France](https://isen-nantes.fr/) 
+* [Since Janvier 2020] New position : Associated Professor at [Yncréa Ouest/ISEN Nantes, France](https://isen-nantes.fr/) 
 
 
