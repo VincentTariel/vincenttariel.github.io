@@ -22,8 +22,9 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
        * Espace vectoriel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_exo.pdf)
        * Application linéaire : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/application_lineaire_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/application_lineaire_exo.pdf) 
        * Réduction : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/reduction_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/reduction_exo.pdf) 
-       * Espace préhilbertien réel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_prehilbertien_cours.pdf) 
+       * Espace préhilbertien réel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_prehilbertien_cours.pdf)  et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_prehilbertien_exo.pdf)
        * Endomorphismes remarquables d'un espace euclidien : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/isometrie_endomorphisme_symetrique_cours.pdf) 
+       * Espace vectoriel normé : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_norme_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_norme_exo.pdf)
 
   * Probabilité
        * Dénombrement : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_cours.pdf), [exercices](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_exo.pdf) 
