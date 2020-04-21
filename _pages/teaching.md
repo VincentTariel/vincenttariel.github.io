@@ -17,7 +17,6 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
       * Intégrale impropre : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/integration_cours.pdf)
       * Intégrale à paramètre : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/integrale_parametre_cours.pdf)
       * Equation différentielle : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/equation_differentielle_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/equation_differentielle_exo.pdf)
-      * Topologie des espaces vectoriels normés  : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/espace_vectoriel_norme_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/espace_vectoriel_norme_exo.pdf)
       
   * Algèbre
        * Espace vectoriel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_exo.pdf)
@@ -25,7 +24,7 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
        * Réduction : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/reduction_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/reduction_exo.pdf) 
        * Espace préhilbertien réel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_prehilbertien_cours.pdf)  et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_prehilbertien_exo.pdf)
        * Endomorphismes remarquables d'un espace euclidien : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/isometrie_endomorphisme_symetrique_cours.pdf) 
-       * Espace vectoriel normé : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_norme_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_norme_exo.pdf)
+       * Topologie des espaces vectoriels normés : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_norme_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_norme_exo.pdf)
 
   * Probabilité
        * Dénombrement : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_cours.pdf), [exercices](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_exo.pdf) 
