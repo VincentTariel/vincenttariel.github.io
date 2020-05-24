@@ -17,7 +17,7 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
       * Série numérique : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/serie_numerique_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/serie_numerique_exo.pdf)
       * Série entière : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/serie_entiere_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/serie_entiere_exo.pdf)
       * Suite et série de fonctions : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/suite_serie_fonction_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/suite_serie_fonction_exo.pdf)
-      * Intégrale impropre : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/integration_cours.pdf)
+      * Intégrale impropre : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/integration_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/integration_exo.pdf)
       * Intégrale à paramètre (hors programme): [cours](https://github.com/VincentTariel/cours/blob/master/analyse/integrale_parametre_cours.pdf)
       * Equation différentielle : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/equation_differentielle_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/equation_differentielle_exo.pdf)
       

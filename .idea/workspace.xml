@@ -48,29 +48,29 @@
     <session id="349824712">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="9" />
-          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="88" />
-          <entry key="md" value="2743" />
+          <entry key="md" value="2761" />
           <entry key="yml" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="88" />
-          <entry key="Markdown" value="2743" />
+          <entry key="Markdown" value="2761" />
           <entry key="YAML" value="17" />
         </counts>
       </usages-collector>
@@ -126,8 +126,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/teaching.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="18" column="150" selection-start-line="18" selection-start-column="150" selection-end-line="18" selection-end-column="150" />
+              <first_editor relative-caret-position="323">
+                <caret line="19" column="132" selection-start-line="19" selection-start-column="132" selection-end-line="19" selection-end-column="132" />
               </first_editor>
               <second_editor />
             </state>
@@ -216,16 +216,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1943" />
-    <option name="height" value="1103" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-9" />
+    <option name="width" value="1935" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,6 +252,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,10 +313,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1554" height="882" extended-state="0" />
+    <frame x="-7" y="0" width="1548" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15886618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15949702" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -646,8 +647,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/teaching.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="150" selection-start-line="18" selection-start-column="150" selection-end-line="18" selection-end-column="150" />
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="132" selection-start-line="19" selection-start-column="132" selection-end-line="19" selection-end-column="132" />
           </first_editor>
           <second_editor />
         </state>
