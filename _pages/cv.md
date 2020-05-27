@@ -9,9 +9,11 @@ redirect_from:
 
 Professionnal experience
 ======
+* [Since 01/2020] : Head of mathematic departement
+  * [Espe UNC](https://unc.nc/formation/formation-des-enseignants/lecole-superieure-du-professorat-et-de-leducation/)
 * [Since 09/2018] : Associate Professer
   * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
-* [01/09/2016 - 31/08/2018] : Teacher agérgé (Teaching high school)
+* [01/09/2016 - 31/08/2018] : Teacher agrégé (Teaching high school)
   * Education national, Lycée et collège, France
 * [13/03/2012 - 24/07/2016] : Co-founder AlphaNumericVision
   * Subject: character recognition using morphological and machine learning analysis 
