@@ -11,9 +11,9 @@ Déclinés suivant 3 branches, analyse, probabilité et algèbe, il se veut un o
 Il sera enrichi tout au long de l'année en suivant la progression faite en cours.
 
 * Analyse
-    * L1
+    * L1 Maths
       * Développement limité [cours](https://github.com/VincentTariel/cours/blob/master/analyse/developpement_limite_cours.pdf)
-    * L2    
+    * L2 Maths   
       * Série numérique : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/serie_numerique_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/serie_numerique_exo.pdf)
       * Série entière : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/serie_entiere_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/serie_entiere_exo.pdf)
       * Suite et série de fonctions : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/suite_serie_fonction_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/suite_serie_fonction_exo.pdf)
@@ -22,7 +22,7 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
       * Equation différentielle : [cours](https://github.com/VincentTariel/cours/blob/master/analyse/equation_differentielle_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/analyse/equation_differentielle_exo.pdf)
       
 * Algèbre
-    * L2 
+    * L2 Maths
        * Espace vectoriel : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_exo.pdf)
        * Application linéaire : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/application_lineaire_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/application_lineaire_exo.pdf) 
        * Réduction : [cours](https://github.com/VincentTariel/cours/blob/master/algebre/reduction_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/reduction_exo.pdf) 
@@ -31,11 +31,14 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
        * Topologie des espaces vectoriels normés (hors programme): [cours](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_norme_cours.pdf) et [exercices](https://github.com/VincentTariel/cours/blob/master/algebre/espace_vectoriel_norme_exo.pdf)
 
 * Probabilité
-    * L1
+    * L1 Maths
        * Dénombrement : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_cours.pdf), [exercices](https://github.com/VincentTariel/cours/blob/master/probabilite/denombrement_exo.pdf) 
         * Probabilité finie : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/probabilite_finie_cours.pdf), [exercices](https://github.com/VincentTariel/cours/blob/master/probabilite/probabilite_finie_exo.pdf) et 
          [TP Python](https://github.com/VincentTariel/cours/blob/master/probabilite/simulation_variable_aleatoire_avtivite_python.pdf)
-    * L2   
+    * L2 Maths   
        * Probabilité discrère : [cours](https://github.com/VincentTariel/cours/blob/master/probabilite/probabilite_discrete_cours.pdf)
         et [tp sur l'algorithme PageRank](https://github.com/VincentTariel/cours/blob/master/probabilite/TP_PageRank.pdf)
 
+* Statistiques 
+    * L2 Droit Economie Gestion 
+       * Descriptive: [cours](https://github.com/VincentTariel/cours/blob/master/statistiques/statistique_descriptive/cours.pdf)
