@@ -12,7 +12,7 @@ I received the master’s degree in material science in 2006 at École nationale
    recognition](http://www.alphanumeric-vision.com/).  After a mathematics aggregation in 2016, I have been a teacher in high-school.  
 
 I was an associated professor on computer science at [Yncréa Ouest/ISEN Nantes-France](https://isen-nantes.fr/).
-My research interests include data science, machine learning and  image processing  were conducted in [L@bISEN – Yncréa Ouest/AI-ED Departement/LSL Team](https://isen-brest.fr/recherche/).
+My research interests include data science, machine learning and  image processing and were conducted in [L@bISEN – Yncréa Ouest/AI-ED Departement/LSL Team](https://isen-brest.fr/recherche/).
 
 
 

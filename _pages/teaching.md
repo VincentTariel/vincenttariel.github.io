@@ -41,4 +41,5 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
 
 * Statistiques 
     * L2 Droit Economie Gestion 
-       * Descriptive: [cours](https://github.com/VincentTariel/cours/blob/master/statistiques/statistique_descriptive/cours.pdf)
+       * Descriptive : [cours](https://github.com/VincentTariel/cours/blob/master/statistiques/statistique_descriptive/cours.pdf)
+       * Inférentielle estimation : [cours](https://github.com/VincentTariel/cours/blob/master/statistiques/statistique_inferentielle/estimation.pdf)
