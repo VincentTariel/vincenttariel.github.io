@@ -23,8 +23,9 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
       * Topologie des espaces vectoriels normés : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_vectoriel_norme_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_vectoriel_norme_exo.pdf)
 
 * Algèbre
-    * Algèbre linéaire : [Activité de découverte](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//algebre_lineaire_activite.pdf)
+    * Algèbre linéaire : [exemple introductif](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//algebre_lineaire_activite.pdf)
        * Systeme linéaire : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//systeme_lineaire_cours.pdf)        
+       * Matrice : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//matrice_cours.pdf)        
        * Espace vectoriel : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_vectoriel_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_vectoriel_exo.pdf)
        * Application linéaire : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//application_lineaire_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//application_lineaire_exo.pdf) 
        * Réduction : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//reduction_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//reduction_exo.pdf) 
