@@ -24,12 +24,12 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
 
 * Algèbre
     * Algèbre linéaire : [exemple introductif](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//algebre_lineaire_activite.pdf)
-       * Systeme linéaire : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//systeme_lineaire_cours.pdf)        
-       * Matrice : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//matrice_cours.pdf)        
-       * Espace vectoriel : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_vectoriel_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_vectoriel_exo.pdf)
-       * Application linéaire : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//application_lineaire_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//application_lineaire_exo.pdf) 
+       * Systeme d'équations linéaires : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//systeme_dequations_lineaires_cours.pdf)        
+       * Matrices : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//matrice_cours.pdf)        
+       * Espaces vectoriels : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espaces_vectoriels_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espaces_vectoriels_exo.pdf)
+       * Applications linéaires : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//applications_lineaires_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//applications_lineaires_exo.pdf) 
        * Réduction : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//reduction_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//reduction_exo.pdf) 
-       * Espace préhilbertien réel : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_prehilbertien_cours.pdf)  et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_prehilbertien_exo.pdf)
+       * Espaces préhilbertiens réels : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espaces_prehilbertiens_cours.pdf)  et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espaces_prehilbertiens_exo.pdf)
        * Endomorphismes remarquables d'un espace euclidien : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//isometrie_endomorphisme_symetrique_cours.pdf) 
        
 * Probabilité
