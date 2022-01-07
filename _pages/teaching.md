@@ -12,13 +12,13 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
 
 * Analyse
     * L2 Maths  
-        * Série numérique : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/serie_numerique_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/serie_numerique_exo.pdf)
-        * Série entière : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/serie_entiere_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/serie_entiere_exo.pdf)
-        * Suite et série de fonctions : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/suite_serie_fonction_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/suite_serie_fonction_exo.pdf)
-        * Intégrale impropre : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/integration_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/integration_exo.pdf)
-        * Intégrale à paramètre (hors programme): [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/integrale_parametre_cours.pdf)
-        * Equation différentielle : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/equation_differentielle_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/equation_differentielle_exo.pdf)
-        * Topologie des espaces vectoriels normés : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_vectoriel_norme_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//espace_vectoriel_norme_exo.pdf)
+        * Série numérique : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/analyse/serie_numerique_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/L2/serie_numerique_exo.pdf)
+        * Série entière : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/analyse/serie_entiere_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/L2/serie_entiere_exo.pdf)
+        * Suite et série de fonctions : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/analyse/suite_serie_fonction_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/analyse/suite_serie_fonction_exo.pdf)
+        * Intégrale impropre : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/analyse/integration_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/analyse/L2/integration_exo.pdf)
+        * Intégrale à paramètre (hors programme): [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/analyse/integrale_parametre_cours.pdf)
+        * Equation différentielle : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/analyse/equation_differentielle_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/analyse/equation_differentielle_exo.pdf)
+        * Topologie des espaces vectoriels normés : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/L2/superieur/algebre/algebre_lineaire//espace_vectoriel_norme_cours.pdf) et [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/algebre/algebre_lineaire//espace_vectoriel_norme_exo.pdf)
 
 * Algèbre
     * Algèbre linéaire : [exemple introductif](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/algebre/algebre_lineaire//algebre_lineaire_activite.pdf)
@@ -32,11 +32,11 @@ Il sera enrichi tout au long de l'année en suivant la progression faite en cour
        
 * Probabilité
     * L1 Maths
-       * Dénombrement : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/denombrement_cours.pdf), [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/denombrement_exo.pdf) 
-       * Probabilité finie : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/probabilite_finie_cours.pdf), [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/probabilite_finie_exo.pdf) et 
-         [TP Python](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/simulation_variable_aleatoire_avtivite_python.pdf)
-       * Variables aléatoires : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/variables_aleatoires_finie_cours.pdf), [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/variables_aleatoires_finie_exo.pdf)
+       * Dénombrement : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L1/probabilite/denombrement_cours.pdf), [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L1/probabilite/denombrement_exo.pdf) 
+       * Probabilité finie : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L1/probabilite/probabilite_finie_cours.pdf), [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L1/probabilite/probabilite_finie_exo.pdf) et 
+         [TP Python](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/L1/simulation_variable_aleatoire_avtivite_python.pdf)
+       * Variables aléatoires : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L1/probabilite/variables_aleatoires_finie_cours.pdf), [exercices](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/probabilite/variables_aleatoires_finie_exo.pdf)
     * L2 Maths   
-       * Probabilité discrère : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/probabilite_discrete_cours.pdf)
+       * Probabilité discrère : [cours](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/L2/probabilite/probabilite_discrete_cours.pdf)
         et [tp sur l'algorithme PageRank](https://github.com/VincentTariel/commeunjeu/blob/master/superieur/probabilite/TP_PageRank.pdf)
 
