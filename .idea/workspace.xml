@@ -108,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571305637878</updated>
       <workItem from="1637893195753" duration="732000" />
+      <workItem from="1641571255205" duration="736000" />
     </task>
     <servers />
   </component>
@@ -146,6 +147,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
