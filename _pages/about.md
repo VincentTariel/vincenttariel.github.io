@@ -22,4 +22,3 @@ Since January 1, 2026, I’ve been building [CommeUnJeu](https://commeunjeu.org)
 News
 ======
 * [January 1, 2026] Founded [CommeUnJeu](https://commeunjeu.org), a digital-first mathematics publishing platform.
-* [January 2020] Lecturer at [ESPE UNC](https://unc.nc/formation/formation-des-enseignants/lecole-superieure-du-professorat-et-de-leducation/) 
