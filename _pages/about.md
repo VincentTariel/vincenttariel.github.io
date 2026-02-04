@@ -16,7 +16,7 @@ My research interests include data science, machine learning and  image processi
 
 I was head of Mathematics department at ESPE of Université de la Nouvelle-Calédonie.  
 
-Since January 1, 2026, I’ve been building CommeUnJeu, a math publishing platform where I create all lessons, exercises, and detailed corrections from kindergarten to high school. Everything is designed as one coherent learning path, so concepts connect clearly from grade to grade, with well-crafted exercises that develop practical problem-solving skills.
+Since January 1, 2026, I’ve been building [CommeUnJeu](https://commeunjeu.org), a math publishing platform where I create all lessons, exercises, and detailed corrections from kindergarten to high school. Everything is designed as one coherent learning path, so concepts connect clearly from grade to grade, with well-crafted exercises that develop practical problem-solving skills.
 
 
 News

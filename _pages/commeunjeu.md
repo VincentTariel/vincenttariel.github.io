@@ -6,11 +6,9 @@ author_profile: true
 excerpt: "A coherent math curriculum from kindergarten to high school."
 ---
 
-# CommeUnJeu — A coherent math curriculum from kindergarten to high school
 
-**Project link:** https://commeunjeu.org
 
-CommeUnJeu is my long-term project: a mathematics publishing platform where I author **the full sequence of lessons, exercises, and detailed corrections** from **kindergarten to high school**. The goal is simple: give learners and teachers a **single, coherent learning path** where ideas (“*savoir*”) connect clearly across years, and where practice builds real problem-solving skills (“*savoir-faire*”).
+[CommeUnJeu](https://commeunjeu.org) is my long-term project: a mathematics publishing platform where I author **the full sequence of lessons, exercises, and detailed corrections** from **kindergarten to high school**. The goal is simple: give learners and teachers a **single, coherent learning path** where ideas (“*savoir*”) connect clearly across years, and where practice builds real problem-solving skills (“*savoir-faire*”).
 
 ## Why this project exists
 
