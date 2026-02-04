@@ -1,4 +1,10 @@
-
+---
+title: "CommeUnJeu"
+permalink: /commeunjeu/
+layout: single
+author_profile: true
+excerpt: "A coherent math curriculum from kindergarten to high school."
+---
 
 # CommeUnJeu — A coherent math curriculum from kindergarten to high school
 
@@ -36,6 +42,3 @@ CommeUnJeu separates **content creation** from **instructional delivery**, so th
 Mathematics is cumulative: early concepts should be built to support later mastery (algebra, functions, modeling, proof). CommeUnJeu treats the curriculum as a **longitudinal dataset**—a structured body of lessons that remains coherent across grade levels, so learning becomes continuous, not patchwork.
 
 If you’re a teacher, a student, or simply curious about how coherent math instruction can be designed end-to-end, CommeUnJeu is my answer.
-
-
-ChatGPT peut commettre des erreurs. Il est recommandé de vérifier les informations importantes. Voir les préférences en matière de cookies.
