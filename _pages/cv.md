@@ -9,9 +9,11 @@ redirect_from:
 
 Professionnal experience
 ======
-* [Since 01/2020] : Head of mathematic departement
+* [2022-2024] : Mathematics Teacher — International curriculum (SACE)
+  * [EIJC](https://www.eijc.nc/)
+* [2020-2022] : Head of mathematic departement
   * [Espe UNC](https://unc.nc/formation/formation-des-enseignants/lecole-superieure-du-professorat-et-de-leducation/)
-* [Since 09/2018] : Associate Professer
+* [2018- 2020] : Associate Professer
   * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
 * [01/09/2016 - 31/08/2018] : Teacher agrégé (Teaching high school)
   * Education national, Lycée et collège, France

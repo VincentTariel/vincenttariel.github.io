@@ -1,15 +1,10 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Teaching"
-    url: /teaching/
+  - title: "CommeUnJeu"
+    url: /commeunjeu/
 
-  - title: "Research"
-    url: /research/    
+
   
-  - title: "Contact"
-    url: /contact/ 
+
     
 

@@ -14,24 +14,12 @@ I received the master’s degree in material science in 2006 at École nationale
 I was an associated professor on computer science at [Yncréa Ouest/ISEN Nantes-France](https://isen-nantes.fr/).
 My research interests include data science, machine learning and  image processing and were conducted in [L@bISEN – Yncréa Ouest/AI-ED Departement/LSL Team](https://isen-brest.fr/recherche/).
 
+I was head of Mathematics department at ESPE of Université de la Nouvelle-Calédonie.  
 
-
-Since January 2020, I am head of Mathematics department at ESPE of Université de la Nouvelle-Calédonie.  
-Since January 1, 2026, I am the founder of [CommeUnJeu](https://commeunjeu.org), a digital-first mathematics publishing platform that separates content creation from instructional delivery so the same coherent learning experience works on paper, desktop, and mobile. Its unified lesson data architecture keeps notation, vocabulary, and progression consistent across grade levels.
-
-CommeUnJeu
-==========
-CommeUnJeu is a digital-first mathematics publishing platform built around a simple conviction: high-quality math teaching should not be limited by tooling, formatting constraints, or fragmented resources. The platform separates **content creation** from **instructional delivery** to serve both classroom teaching and autonomous learning across **paper, desktop, and mobile**.
-
-At its core, CommeUnJeu is a unified lesson data architecture—not a loose library of resources. Lessons are structured as connected objects (definitions, properties, methods, examples, exercises, and pedagogical intent) authored within one coherent thread across grade levels. This ensures:
-
-* consistent vocabulary and notation,
-* explicit prerequisites,
-* intentional progression from year to year,
-* continuity that supports long-term mastery.
+Since January 1, 2026, I’ve been building CommeUnJeu, a math publishing platform where I create all lessons, exercises, and detailed corrections from kindergarten to high school. Everything is designed as one coherent learning path, so concepts connect clearly from grade to grade, with well-crafted exercises that develop practical problem-solving skills.
 
 
 News
 ======
 * [January 1, 2026] Founded [CommeUnJeu](https://commeunjeu.org), a digital-first mathematics publishing platform.
-* [Since January 2020] New position : lecturer at [ESPE UNC](https://unc.nc/formation/formation-des-enseignants/lecole-superieure-du-professorat-et-de-leducation/) 
+* [January 2020] Lecturer at [ESPE UNC](https://unc.nc/formation/formation-des-enseignants/lecole-superieure-du-professorat-et-de-leducation/) 
