@@ -12,7 +12,7 @@ Professionnal experience
 * [2022-2024] : Mathematics Teacher — International curriculum (SACE)
   * [EIJC](https://www.eijc.nc/)
 * [2020-2022] : Head of mathematic departement
-  * [Espe UNC](https://unc.nc/formation/formation-des-enseignants/lecole-superieure-du-professorat-et-de-leducation/)
+  * [INSPE UNC](https://unc.nc/formation/formation-des-enseignants/lecole-superieure-du-professorat-et-de-leducation/)
 * [2018- 2020] : Associate Professer
   * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
 * [01/09/2016 - 31/08/2018] : Teacher agrégé (Teaching high school)
