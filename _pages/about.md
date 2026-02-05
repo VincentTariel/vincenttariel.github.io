@@ -7,18 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received the master’s degree in material science in 2006 at École nationale des ponts et chaussées, and the PhD degree in image processing applied to material science in 2009 from Ecole Polytechnique. After a post-doc in the Australian National University,
-   I have been a founder of a start-up  dedicated to a new language called [Cameleon](https://en.wikipedia.org/wiki/Cameleon_(programming_language))  and a second one for  [character 
-   recognition](http://www.alphanumeric-vision.com/).  After a mathematics aggregation in 2016, I have been a teacher in high-school.  
 
-I was an associated professor on computer science at [Yncréa Ouest/ISEN Nantes-France](https://isen-nantes.fr/).
-My research interests include data science, machine learning and  image processing and were conducted in [L@bISEN – Yncréa Ouest/AI-ED Departement/LSL Team](https://isen-brest.fr/recherche/).
+I’m a mathematician and machine learning engineer focused on turning rigorous methods into useful, well-designed learning and software products.
 
-I was head of Mathematics department at INSPE of Université de la Nouvelle-Calédonie.  
+I earned a master’s degree (2006) from **École nationale des ponts et chaussées** and a PhD (2009) in **image processing** from **École Polytechnique**. After a postdoctoral position at **The Australian National University**, I co-founded two startups: one around the programming language **Cameleon**, and another in **optical character recognition** and document understanding.
 
-Since January 1, 2026, I’ve been building [CommeUnJeu](https://commeunjeu.org), a math publishing platform where I create all lessons, exercises, and detailed corrections from kindergarten to high school. Everything is designed as one coherent learning path, so concepts connect clearly from grade to grade, with well-crafted exercises that develop practical problem-solving skills.
+In 2016, I passed the **agrégation de mathématiques**, and I have taught mathematics at high-school level, with a strong emphasis on structured reasoning, problem-solving, and progression design. I was also an associate professor in computer science at **Yncréa Ouest / ISEN Nantes (France)**, and my research work in **data science**, **machine learning**, and **image processing** was conducted within **L@bISEN – Yncréa Ouest / AI-ED Department / LSL Team**.
 
+I later served as Head of the Mathematics Department at **INSPE, Université de la Nouvelle-Calédonie**, where I worked on curriculum coherence and teacher training, bridging mathematical rigor with classroom reality.
 
-News
-======
-* [January 1, 2026] Founded [CommeUnJeu](https://commeunjeu.org), a digital-first mathematics publishing platform.
+Since **January 1, 2026**, I’ve been building **CommeUnJeu**, a digital-first mathematics publishing platform where I create **all lessons, exercises, and detailed solutions** from kindergarten to high school. The content is designed as a single coherent learning path: concepts connect explicitly across grades, and the exercise design builds durable skills—especially practical problem-solving and mathematical thinking.
+
+---
+
+## News
+
+* **January 1, 2026** — Founded **CommeUnJeu**, a digital-first mathematics publishing platform.
+
